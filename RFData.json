@@ -5,7 +5,7 @@
                 "sessionId": "A1",
                 "sessionName": "Session 1",
                 "sessionStartTime": "14:00",
-                "sessionEndTime": "2023-08-25 10:10",
+                "sessionEndTime": "2023-08-25 14:10",
                 "sessionLocation": "Room 2",
                 "sessionDescription": "Session 1 Description"
             },
@@ -13,7 +13,7 @@
                 "sessionId": "B2",
                 "sessionName": "Longer Session 2 name testing",
                 "sessionStartTime": "14:30",
-                "sessionEndTime": "2023-08-25 10:10",
+                "sessionEndTime": "2023-08-25 14:10",
                 "sessionLocation": "Room 4",
                 "sessionDescription": "Session 2 Description"
             },
@@ -21,7 +21,7 @@
                 "sessionId": "D7",
                 "sessionName": "Session 7",
                 "sessionStartTime": "15:00",
-                "sessionEndTime": "2023-08-25 10:13",
+                "sessionEndTime": "2023-08-25 14:13",
                 "sessionLocation": "Room 6",
                 "sessionDescription": "Session 7 Description longer than the rest of them"
             },
@@ -29,7 +29,7 @@
                 "sessionId": "E7",
                 "sessionName": "Session 8",
                 "sessionStartTime": "15:00",
-                "sessionEndTime": "2023-08-25 10:15",
+                "sessionEndTime": "2023-08-25 14:15",
                 "sessionLocation": "Room 6",
                 "sessionDescription": "Session 7 Description longer than the rest of them"
             },
@@ -37,7 +37,7 @@
                 "sessionId": "F7",
                 "sessionName": "Session 9",
                 "sessionStartTime": "15:00",
-                "sessionEndTime": "2023-08-25 10:17",
+                "sessionEndTime": "2023-08-25 14:17",
                 "sessionLocation": "Room 6",
                 "sessionDescription": "Session 7 Description longer than the rest of them"
             },
@@ -45,7 +45,7 @@
                 "sessionId": "G7",
                 "sessionName": "Session 10",
                 "sessionStartTime": "15:00",
-                "sessionEndTime": "2023-08-25 10:19",
+                "sessionEndTime": "2023-08-25 14:19",
                 "sessionLocation": "Room 6",
                 "sessionDescription": "Session 7 Description longer than the rest of them"
             }

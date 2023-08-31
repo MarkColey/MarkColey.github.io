@@ -41,8 +41,8 @@
                 "sessionId": "A1",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Session 1",
-                "sessionStartTime": "2023-08-31 11:20",
-                "sessionEndTime": "2023-08-31 12:10",
+                "sessionStartTime": "2023-08-31 13:00",
+                "sessionEndTime": "2023-08-31 14:00",
                 "sessionType": "Keynote",
                 "sessionLocation": "Session Room 2",
                 "sessionDescription": "Session 1 Description"
@@ -51,8 +51,8 @@
                 "sessionId": "B2",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Longer Session 2 name testing to see what it looks like if it is reaaaaaaaaaaaaaaaaally long",
-                "sessionStartTime": "2023-08-31 11:20",
-                "sessionEndTime": "2023-08-31 12:10",
+                "sessionStartTime": "2023-08-31 13:05",
+                "sessionEndTime": "2023-08-31 14:05",
                 "sessionType": "Track Keynote",
                 "sessionLocation": "Room 4",
                 "sessionDescription": "Session 2 Description"

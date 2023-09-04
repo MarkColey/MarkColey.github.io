@@ -3,7 +3,7 @@
         [
           {
             "slideId": "1",
-            "slideType": "Hello",
+            "slideType": "agenda",
             "slideStartTime": "2023-09-04 8:00",
             "slideEndTime": "2023-09-04 20:00",
             "slideDuration": "20",

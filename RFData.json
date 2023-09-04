@@ -32,11 +32,19 @@
           },
           {
             "slideId": "4",
-            "slideType": "agenda",
-            "slideStartTime": "2023-09-01 09:40",
-            "slideEndTime": "2023-09-01 19:40",
+            "slideType": "sponsor",
+            "slideStartTime": "2023-09-04 09:40",
+            "slideEndTime": "2023-09-04 19:40",
             "slideDuration": "10",
             "slideOrder":"4"
+          },
+          {
+            "slideId": "5",
+            "slideType": "feedback",
+            "slideStartTime": "2023-09-04 09:40",
+            "slideEndTime": "2023-09-04 19:40",
+            "slideDuration": "10",
+            "slideOrder":"5"
           }
         ],
   

@@ -4,8 +4,8 @@
           {
             "slideId": "1",
             "slideType": "Hello",
-            "slideStartTime": "2023-09-01 8:00",
-            "slideEndTime": "2023-09-01 20:00",
+            "slideStartTime": "2023-09-04 8:00",
+            "slideEndTime": "2023-09-04 20:00",
             "slideDuration": "20",
             "slideOrder":"1"
           },
@@ -22,11 +22,13 @@
           },
           {
             "slideId": "3",
-            "slideType": "Hello",
+            "slideType": "general",
             "slideStartTime": "2023-09-01 16:10",
             "slideEndTime": "2023-09-01 16:45",
             "slideDuration": "5",
-            "slideOrder":"3"
+            "slideOrder":"3",
+            "slideHeading":"Get on the Wi-Fi",
+            "slideDetailText":"SSID: HPE TSS 2023<br>Password: Barcelona!"
           },
           {
             "slideId": "4",
@@ -44,8 +46,8 @@
                 "sessionId": "A1",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Session 1",
-                "sessionStartTime": "2023-09-01 15:00",
-                "sessionEndTime": "2023-09-01 16:00",
+                "sessionStartTime": "2023-09-04 15:00",
+                "sessionEndTime": "2023-09-04 16:00",
                 "sessionType": "Keynote",
                 "sessionLocation": "Session Room 2",
                 "sessionDescription": "Session 1 Description"
@@ -54,8 +56,8 @@
                 "sessionId": "B2",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Longer Session 2 name testing to see what it looks like if it is reaaaaaaaaaaaaaaaaally long",
-                "sessionStartTime": "2023-09-01 15:05",
-                "sessionEndTime": "2023-09-01 16:05",
+                "sessionStartTime": "2023-09-04 15:05",
+                "sessionEndTime": "2023-09-04 16:05",
                 "sessionType": "Track Keynote",
                 "sessionLocation": "Room 4",
                 "sessionDescription": "Session 2 Description"
@@ -64,8 +66,8 @@
                 "sessionId": "D7",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Session 7",
-                "sessionStartTime": "2023-09-01 15:35",
-                "sessionEndTime": "2023-09-01 16:13",
+                "sessionStartTime": "2023-09-04 15:35",
+                "sessionEndTime": "2023-09-04 16:13",
                 "sessionType": "Track Keynote",
                 "sessionLocation": "Room 6",
                 "sessionDescription": "Session 7 Description longer than the rest of them"
@@ -74,8 +76,8 @@
                 "sessionId": "E7",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Session 8",
-                "sessionStartTime": "2023-09-01 15:45",
-                "sessionEndTime": "2023-09-01 16:45",
+                "sessionStartTime": "2023-09-04 15:45",
+                "sessionEndTime": "2023-09-04 16:45",
                 "sessionType": "Hands-on",
                 "sessionLocation": "Room 6",
                 "sessionDescription": "Session 7 Description longer than the rest of them"
@@ -84,8 +86,8 @@
                 "sessionId": "F7",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Session 9",
-                "sessionStartTime": "2023-09-01 15:55",
-                "sessionEndTime": "2023-09-01 16:55",
+                "sessionStartTime": "2023-09-04 15:55",
+                "sessionEndTime": "2023-09-04 16:55",
                 "sessionType": "Sponsor Breakout",
                 "sessionLocation": "Room 6",
                 "sessionDescription": "Session 7 Description longer than the rest of them"
@@ -94,8 +96,8 @@
                 "sessionId": "G7",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Session 10",
-                "sessionStartTime": "2023-09-01 16:15",
-                "sessionEndTime": "2023-09-01 17:15",
+                "sessionStartTime": "2023-09-04 16:15",
+                "sessionEndTime": "2023-09-04 17:15",
                 "sessionType": "Breakout",
                 "sessionLocation": "Room 6",
                 "sessionDescription": "Session 7 Description longer than the rest of them"

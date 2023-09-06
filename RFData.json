@@ -4,16 +4,16 @@
           {
             "slideId": "1",
             "slideType": "agenda",
-            "slideStartTime": "2023-09-05 8:00",
-            "slideEndTime": "2023-09-05 20:00",
+            "slideStartTime": "2023-09-06 8:00",
+            "slideEndTime": "2023-09-06 20:00",
             "slideDuration": "20",
             "slideOrder":"1"
           },
           {
             "slideId": "2",
             "slideType": "keynote",
-            "slideStartTime": "2023-09-05 09:30",
-            "slideEndTime": "2023-09-05 20:00",
+            "slideStartTime": "2023-09-06 09:30",
+            "slideEndTime": "2023-09-06 20:00",
             "slideDuration": "3",
             "slideOrder":"2",
             "slideHeading":"Opening Keynote: Journey to one technical community",
@@ -23,8 +23,8 @@
           {
             "slideId": "3",
             "slideType": "general",
-            "slideStartTime": "2023-09-05 08:10",
-            "slideEndTime": "2023-09-05 20:45",
+            "slideStartTime": "2023-09-06 08:10",
+            "slideEndTime": "2023-09-06 20:45",
             "slideDuration": "5",
             "slideOrder":"3",
             "slideHeading":"Get on the Wi-Fi",
@@ -33,16 +33,16 @@
           {
             "slideId": "4",
             "slideType": "sponsor",
-            "slideStartTime": "2023-09-05 09:40",
-            "slideEndTime": "2023-09-05 19:40",
+            "slideStartTime": "2023-09-06 09:40",
+            "slideEndTime": "2023-09-06 19:40",
             "slideDuration": "10",
             "slideOrder":"4"
           },
           {
             "slideId": "5",
             "slideType": "feedback",
-            "slideStartTime": "2023-09-05 12:00",
-            "slideEndTime": "2023-09-05 19:40",
+            "slideStartTime": "2023-09-06 12:00",
+            "slideEndTime": "2023-09-06 19:40",
             "slideDuration": "10",
             "slideOrder":"5"
           }
@@ -54,8 +54,8 @@
                 "sessionId": "A1",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Session 1",
-                "sessionStartTime": "2023-09-05 15:00",
-                "sessionEndTime": "2023-09-05 16:00",
+                "sessionStartTime": "2023-09-06 15:00",
+                "sessionEndTime": "2023-09-06 16:00",
                 "sessionType": "Keynote",
                 "sessionLocation": "Session Room 2",
                 "sessionDescription": "Session 1 Description"
@@ -64,8 +64,8 @@
                 "sessionId": "B2",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Longer Session 2 name testing to see what it looks like if it is reaaaaaaaaaaaaaaaaally long",
-                "sessionStartTime": "2023-09-05 15:05",
-                "sessionEndTime": "2023-09-05 16:05",
+                "sessionStartTime": "2023-09-06 15:05",
+                "sessionEndTime": "2023-09-06 16:05",
                 "sessionType": "Track Keynote",
                 "sessionLocation": "Room 4",
                 "sessionDescription": "Session 2 Description"
@@ -74,8 +74,8 @@
                 "sessionId": "D7",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Session 7",
-                "sessionStartTime": "2023-09-05 15:35",
-                "sessionEndTime": "2023-09-05 16:13",
+                "sessionStartTime": "2023-09-06 15:35",
+                "sessionEndTime": "2023-09-06 16:13",
                 "sessionType": "Track Keynote",
                 "sessionLocation": "Room 6",
                 "sessionDescription": "Session 7 Description longer than the rest of them"
@@ -84,8 +84,8 @@
                 "sessionId": "E7",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Session 8",
-                "sessionStartTime": "2023-09-05 15:45",
-                "sessionEndTime": "2023-09-05 16:45",
+                "sessionStartTime": "2023-09-06 15:45",
+                "sessionEndTime": "2023-09-06 16:45",
                 "sessionType": "Hands-on",
                 "sessionLocation": "Room 6",
                 "sessionDescription": "Session 7 Description longer than the rest of them"
@@ -94,8 +94,8 @@
                 "sessionId": "F7",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Session 9",
-                "sessionStartTime": "2023-09-05 15:55",
-                "sessionEndTime": "2023-09-05 16:55",
+                "sessionStartTime": "2023-09-06 15:55",
+                "sessionEndTime": "2023-09-06 16:55",
                 "sessionType": "Sponsor Breakout",
                 "sessionLocation": "Room 6",
                 "sessionDescription": "Session 7 Description longer than the rest of them"
@@ -104,8 +104,8 @@
                 "sessionId": "G7",
                 "sessionCode": "ABC1234XYZ",
                 "sessionName": "Session 10",
-                "sessionStartTime": "2023-09-05 16:15",
-                "sessionEndTime": "2023-09-05 17:15",
+                "sessionStartTime": "2023-09-06 16:15",
+                "sessionEndTime": "2023-09-06 17:15",
                 "sessionType": "Breakout",
                 "sessionLocation": "Room 6",
                 "sessionDescription": "Session 7 Description longer than the rest of them"

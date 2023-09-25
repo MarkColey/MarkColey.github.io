@@ -1,4 +1,15 @@
 {
+  "alerts":
+    [
+      {
+        "alertId": "1",
+        "alertLocation": "global",
+        "alertStartTime": "2023-09-25 12:00",
+        "alertEndTime": "2023-09-25 17:05",
+        "alertMessage": "Some very important text for everyone to see all of the time that scrolls across the screen"
+      }
+    ],
+  
   "slides":
         [
           {

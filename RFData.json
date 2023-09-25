@@ -4,8 +4,8 @@
       {
         "alertId": "1",
         "alertLocation": "global",
-        "alertStartTime": "2023-09-25 11:26",
-        "alertEndTime": "2023-09-25 12:28",
+        "alertStartTime": "2023-09-25 11:35",
+        "alertEndTime": "2023-09-25 11:37",
         "alertMessage": "Some very important text for everyone to see all of the time that scrolls across the screen"
       }
     ],

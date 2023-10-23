@@ -4,22 +4,22 @@
       {
         "alertId": "1",
         "alertLocation": "global",
-        "alertStartTime": "2023-10-23 11:30",
-        "alertEndTime": "2023-10-23 14:30",
+        "alertStartTime": "2023-10-23 19:30",
+        "alertEndTime": "2023-10-23 20:30",
         "alertMessage": "<p>Some <strong>very important</strong> text for everyone to see all of the time that scrolls across the screen</p>"
       },
       {
         "alertId": "2",
         "alertLocation": "global",
-        "alertStartTime": "2023-10-23 14:35",
-        "alertEndTime": "2023-10-23 15:40",
+        "alertStartTime": "2023-10-23 20:35",
+        "alertEndTime": "2023-10-23 21:40",
         "alertMessage": "<p>Message 2: Some <strong>very important</strong> text for everyone to see all of the time that scrolls across the screen</p>"
       },
       {
         "alertId": "3",
         "alertLocation": "global",
-        "alertStartTime": "2023-10-23 15:45",
-        "alertEndTime": "2023-10-23 16:50",
+        "alertStartTime": "2023-10-23 21:45",
+        "alertEndTime": "2023-10-23 22:50",
         "alertMessage": "<p>Message 3: Some <strong>very important</strong> text for everyone to see all of the time that scrolls across the screen</p>"
       }
     ],
@@ -30,7 +30,7 @@
             "slideId": "1",
             "slideType": "agenda",
             "slideStartTime": "2023-10-23 8:00",
-            "slideEndTime": "2023-10-23 20:00",
+            "slideEndTime": "2023-10-24 20:00",
             "slideDuration": "20",
             "slideOrder":"1"
           },
@@ -38,7 +38,7 @@
             "slideId": "2",
             "slideType": "keynote",
             "slideStartTime": "2023-10-23 8:00",
-            "slideEndTime": "2023-10-23 20:00",
+            "slideEndTime": "2023-10-24 20:00",
             "slideDuration": "3",
             "slideOrder":"2",
             "slideHeading":"Opening Keynote: Journey to one technical community",
@@ -49,7 +49,7 @@
             "slideId": "3",
             "slideType": "general",
             "slideStartTime": "2023-10-23 8:00",
-            "slideEndTime": "2023-10-23 20:45",
+            "slideEndTime": "2023-10-24 20:45",
             "slideDuration": "5",
             "slideOrder":"3",
             "slideHeading":"Get on the Wi-Fi",
@@ -59,7 +59,7 @@
             "slideId": "4",
             "slideType": "sponsor",
             "slideStartTime": "2023-10-23 8:00",
-            "slideEndTime": "2023-10-23 19:40",
+            "slideEndTime": "2023-10-24 19:40",
             "slideDuration": "10",
             "slideOrder":"4"
           },
@@ -67,7 +67,7 @@
             "slideId": "5",
             "slideType": "feedback",
             "slideStartTime": "2023-10-23 8:00",
-            "slideEndTime": "2023-10-23 19:40",
+            "slideEndTime": "2023-10-24 19:40",
             "slideDuration": "10",
             "slideOrder":"5"
           }

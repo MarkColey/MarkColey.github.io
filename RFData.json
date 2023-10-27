@@ -4,22 +4,22 @@
       {
         "alertId": "1",
         "alertLocation": "global",
-        "alertStartTime": "2023-10-25 11:15",
-        "alertEndTime": "2023-10-25 11:20",
+        "alertStartTime": "2023-10-27 11:15",
+        "alertEndTime": "2023-10-27 11:20",
         "alertMessage": "<p>Some <strong>very important</strong> text for everyone to see all of the time that scrolls across the screen</p>"
       },
       {
         "alertId": "2",
         "alertLocation": "global",
-        "alertStartTime": "2023-10-25 11:00",
-        "alertEndTime": "2023-10-25 11:10",
+        "alertStartTime": "2023-10-27 11:00",
+        "alertEndTime": "2023-10-27 11:10",
         "alertMessage": "<p>Message 2: Some <strong>very important</strong> text for everyone to see all of the time that scrolls across the screen</p>"
       },
       {
         "alertId": "3",
         "alertLocation": "global",
-        "alertStartTime": "2023-10-25 11:25",
-        "alertEndTime": "2023-10-25 20:30",
+        "alertStartTime": "2023-10-27 11:25",
+        "alertEndTime": "2023-10-27 20:30",
         "alertMessage": "<p>Message 3: Some <strong>very important</strong> text for everyone to see all of the time that scrolls across the screen</p>"
       }
     ],
@@ -29,8 +29,8 @@
           {
             "slideId": "1",
             "slideType": "agenda",
-            "slideStartTime": "2023-10-23 8:00",
-            "slideEndTime": "2023-10-26 20:00",
+            "slideStartTime": "2023-10-27 8:00",
+            "slideEndTime": "2023-10-27 20:00",
             "slideDuration": "60",
             "slideOrder":"1"
           },
